@@ -1,4 +1,6 @@
-# Compiled class file
+!.gitignore
+.*
+#Compiled class file
 *.class
 
 # Log file
